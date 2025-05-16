@@ -1,4 +1,4 @@
-# Hono Starter Project
+# Hono Starter Kit
 
 A modern, type-safe API starter template built with Hono — a modern framework built on Web Standards. Featuring OpenAPI documentation with Scalar, TypeScript, and robust development tooling.
 
