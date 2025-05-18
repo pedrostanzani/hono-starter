@@ -13,7 +13,7 @@ app.doc("/spec", {
   openapi: "3.0.0",
   info: {
     version: "1.0.0",
-    title: "WireFL API",
+    title: "Hono Starter Kit",
   },
   tags: [
     {
